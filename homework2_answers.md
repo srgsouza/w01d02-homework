@@ -22,3 +22,8 @@ git checkout branchName
 - Why would you want to use a branch other than the default master?
 To track code separately from the main branch. 
 
+- Give an example for when you would use git merge and give an example for when it would be better to submit a pull request to have your branch merged
+"used by git pull to incorporate changes from another repository ". A pull request goest to an assignee for review/approval
+- What command do you use to send all of the work that you've done locally to your remote repository?
+git push
+
