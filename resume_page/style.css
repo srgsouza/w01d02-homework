@@ -1,12 +1,34 @@
 body {
   margin: 0 60px;
+  border-top: 10px solid palegreen;
+  border-bottom: 10px solid palegreen;
 }
 
 h1 {
   text-align: center; 
   font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
 }
 
 h3 {
   color: blue
+}
+
+iframe {
+  border: 1px solid black;
+}
+
+#pilot {
+  border-radius: 50%;
+  height: 250px;
+}
+
+nav {
+  background-color: aqua;
+  height: 50px;
+}
+
+nav a {
+  padding: 20px;
+  font-family: 'Montserrat', sans-serif;
 }
